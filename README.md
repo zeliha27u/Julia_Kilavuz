@@ -39,14 +39,14 @@ Bu proje, **Julia Programlama Dili** için Türkçe kaynak eksiğini kapatmayı 
 ### 🇺🇸 Project Overview
 This project is an open-source book aimed at providing a comprehensive resource for the **Julia Programming Language** in Turkish. Originally started as a university assignment, it has evolved into a **132-page** technical guide tailored for Data Science and High-Performance Computing.
 
-* **Current Status:** 🚧 Work in Progress (Active Development)
+* **Current Status:**  Work in Progress (Active Development)
 * **Format:** Professional academic typesetting using **LaTeX**.
 * **Goal:** To fill the gap in Turkish resources for Julia.
 
 ### 🇹🇷 Proje Özeti
 Bu proje, **Julia Programlama Dili** için Türkçe kaynak eksiğini kapatmayı hedefleyen açık kaynaklı bir kitap çalışmasıdır. Üniversite ödevi olarak başlayan bu süreç, Veri Bilimi ve Yüksek Performanslı Hesaplama odaklı, **132 sayfalık** detaylı bir teknik rehbere dönüşmüştür.
 
-* **Mevcut Durum:** 🚧 Geliştirme Aşamasında
+* **Mevcut Durum:**  Geliştirme Aşamasında
 * **Format:** **LaTeX** kullanılarak profesyonel akademik dizgi.
 * **Hedef:** Türk geliştiriciler için kapsamlı bir Julia başvuru kaynağı oluşturmak.
 
